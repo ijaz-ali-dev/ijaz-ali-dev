@@ -5,6 +5,14 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7CB00&center=true&vCenter=true&width=500&lines=I'm+Ijaz+ali+;Innovative+UX%2FUI+Designer" alt="Typing SVG" /></a>
 <p>
 </div>
+- 🌱 **Another MERN Stack App.**
+ <hr>
+
+## 🙋‍♂️ I’m currently learning:
+- 🔭 **JavaScript.**
+
+- ⚡**Another MERN Stack App.**
+ <hr>
   <hr>
 
 ### Hi there 👋 
