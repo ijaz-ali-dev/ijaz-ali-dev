@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
-<iframe src="https://giphy.com/embed/zhYSVCirREeIZtONCI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thebuzzingstudio-code-tbs-thebuzzing-zhYSVCirREeIZtONCI">via GIPHY</a></p>
-</p>
-<iframe src="https://giphy.com/embed/zhYSVCirREeIZtONCI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thebuzzingstudio-code-tbs-thebuzzing-zhYSVCirREeIZtONCI">via GIPHY</a></p>
+<a href="#"><img width="25%" height="10%" src="https://i.postimg.cc/Pr7XM8vZ/41546-man-working-in-laptop.gif" /></a></p>
+
+
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7CB00&center=true&vCenter=true&width=500&lines=I'm+Ijaz+ali+;Innovative+UX%2FUI+Designer" alt="Typing SVG" /></a>
 <p>
