@@ -8,7 +8,7 @@
   
 <hr>
 
-**### Hi there 👋 
+### Hi there 👋 
 
 <!--
 **ijaz-ali-dev/ijaz-ali-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +24,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 👨‍💻 I’m currently working on My:
+
+- ​​⚔️​ **React, Epress and Nodejs skills.**
+
+- 🌱 **Another MERN Stack App.**
+ <hr>
+
+## 🙋‍♂️ I’m currently learning:
+- 🔭 **JavaScript.**
+
+- ⚡**Another MERN Stack App.**
+ <hr>
+
+## 👔​ I’m currently working on My:
+
+- ​​🧑‍💼 I’m looking to collaborate on **OpenSource Projects**
+
+- 🎖️​ All of my projects are available at **[My Portfolio](https://github.com/ijaz-ali-dev?tab=repositories)**
+
+- ​📨​​ How to reach me **aliwebdesigner234@gmail.com**
+
+- ​🎯​ Fun fact **I play games and Play is our brain’s favorite way of learning.**
+
+<hr>
