@@ -1,4 +1,4 @@
-<<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7CB00&center=true&width=435&lines=I'm+Ijaz+ali+;UX%2FUI+Designer" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7CB00&center=true&width=435&lines=I'm+Ijaz+ali+;UX%2FUI+Designer" alt="Typing SVG" /></a><p>
 
 
 **### Hi there 👋 
