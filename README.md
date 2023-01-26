@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/zhYSVCirREeIZtONCI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thebuzzingstudio-code-tbs-thebuzzing-zhYSVCirREeIZtONCI">via GIPHY</a></p>
+<<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7CB00&center=true&width=435&lines=I'm+Ijaz+ali+;UX%2FUI+Designer" alt="Typing SVG" /></a>
 
 
 **### Hi there 👋 
