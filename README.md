@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
-<a href="#"><img width="25%" height="10%" src="https://i.postimg.cc/Pr7XM8vZ/41546-man-working-in-laptop.gif" /></a></p>
+<a href="#"><img width="27%" height="10%" src="https://i.postimg.cc/Pr7XM8vZ/41546-man-working-in-laptop.gif" /></a></p>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7CB00&center=true&width=435&lines=I'm+Ijaz+ali+;Invoative+UX%2FUI+Designer" alt="Typing SVG" /></a></a><p>
 
 
