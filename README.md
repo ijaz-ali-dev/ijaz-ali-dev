@@ -24,20 +24,18 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 I’m currently working on My:
 
-- ​​⚔️​ **React, Epress and Nodejs skills.**
+- ​​⚔️​ **Product Design skills.**
 
-- 🌱 **Another MERN Stack App.**
- <hr>
+- 🌱 **Another interactive Design App**
 
-## 🙋‍♂️ I’m currently learning:
-- 🔭 **JavaScript.**
+- 🔭 **Polish frontend skills with JavaScript**
 
-- ⚡**Another MERN Stack App.**
+- ⚡**Wireframing, Prototypes, Responsible Design**
  <hr>
 
 ## 👔​ I’m currently working on My:
 
-- ​​🧑‍💼 I’m looking to collaborate on **OpenSource Projects**
+- ​​💼 I’m looking to collaborate on **OpenSource Projects**
 
 - 🎖️​ All of my projects are available at **[My Portfolio](https://github.com/ijaz-ali-dev?tab=repositories)**
 
