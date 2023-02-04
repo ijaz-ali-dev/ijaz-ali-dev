@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=ijaz-ali-dev&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🤳 Connect with me:
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/ijaz39318021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ijaz39318021" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ijaz-a-a6a8591a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ijaz-a-a6a8591a0/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12984224/ijaz-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12984224/ijaz-ali" height="30" width="40" /></a>
@@ -74,7 +74,3 @@ Here are some ideas to get you started:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-[![](https://visitcount.itsvg.in/api?id=ijaz-ali-dev&icon=0&color=1)](https://visitcount.itsvg.in)
