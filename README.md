@@ -67,7 +67,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=ijaz-ali-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ijaz-ali-dev&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ijaz-ali-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<hr>
 
 # 💫Hacktoberfest_2022
 [![An image of @ijaz_ali_dev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ijaz_ali_dev)](https://holopin.io/@ijaz_ali_dev)
